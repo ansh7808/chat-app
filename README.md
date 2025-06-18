@@ -35,4 +35,4 @@ Upload new profile image
 Update bio or personal details
 
 # Project UI
-
+![Image](https://github.com/user-attachments/assets/b59dd63a-e3dc-4ef9-bee1-769a37034295)
