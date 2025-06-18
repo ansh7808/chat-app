@@ -36,3 +36,5 @@ Update bio or personal details
 
 # Project UI
 ![Image](https://github.com/user-attachments/assets/b59dd63a-e3dc-4ef9-bee1-769a37034295)
+![Image](https://github.com/user-attachments/assets/9304b88d-712d-44cd-85ce-04025c7c27f6)
+![Image](https://github.com/user-attachments/assets/eec87c36-9d3a-4faa-9c4a-ea2b413037c4)
